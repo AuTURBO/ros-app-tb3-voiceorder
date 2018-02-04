@@ -1,5 +1,6 @@
 # ros-app-tb3-voiceorder
 * To make TurtleBot3 Burger follow what some says
+* This is Android application source code 
 * This code refers to the site below and use rosjava class 
 ```
 https://github.com/rosjava/android_core
@@ -7,9 +8,6 @@ https://github.com/rosjava/android_core
 # Requirements
 
 * Android Studio 3.0.1
-
-# Support OS
-
 * Android Phone SDK version 15 IceCreamSandwitch  ~ 26 Oreo
 * ROS Kinentic
 
