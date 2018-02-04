@@ -44,10 +44,10 @@ The path is as below
 ```
 control by jostick
 ```
-<img src="/picture/Screenshot_2018-02-04-11-54-11.png" width="50" height="50">
+<img src="/picture/Screenshot_2018-02-04-11-54-11.png" width="50%" height="50%">
 ![ex_screenshot](./picture/Screenshot_2018-02-04-11-54-11.png){: width="50%" height="50%"}
 ```
 control by voice
 ```
-<img src="/picture/Screenshot_2018-02-04-11-54-22.png" width="50" height="50">
+<img src="/picture/Screenshot_2018-02-04-11-54-22.png" width="50%" height="50%">
 ![ex_screenshot](./picture/Screenshot_2018-02-04-11-54-22.png){: width="50%" height="50%"}
