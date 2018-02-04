@@ -22,22 +22,30 @@ chmod +x "file name"
 ```
 If you don't want to build project, you just dounload and install Apk file at below link. 
 The path is as below
-
-1. android_controllerSample Project
-https://github.com/AuTURBO/ros-app-tb3-voiceorder/blob/master/android_controllerSample/build/outputs/apk/debug/android_controllerSample-debug.apk
-
-2. android_pubsubSample Project
-https://github.com/AuTURBO/ros-app-tb3-voiceorder/blob/master/android_pubsubSample/build/outputs/apk/debug/android_pubsubSample-debug.apk
 ```
+ * android_controllerSample Project
+    https://github.com/AuTURBO/ros-app-tb3-voiceorder/blob/master/android_controllerSample/build/outputs/apk/debug/android_controllerSample-debug.apk
+
+ * android_pubsubSample Project
+  https://github.com/AuTURBO/ros-app-tb3-voiceorder/blob/master/android_pubsubSample/build/outputs/apk/debug/android_pubsubSample-debug.apk
+
 
 # Project Description
 
 * android_10
 ``` 
 ```
-* android_controllerSample Project
-```
-```
 * android_pubsubSample Project
 ```
 ```
+* android_controllerSample Project
+```
+```
+```
+control by jostick
+```
+![ex_screenshot](./picture/Screenshot_2018-02-04-11-54-11.png)
+```
+control by voice
+```
+![ex_screenshot](./picture/Screenshot_2018-02-04-11-54-22.png)
