@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.ros.rosjava_core:apache_xmlrpc_client:0.3.5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_client/0.3.5/71e810ad6cb0d81a75737accb2863e170f59c142/apache_xmlrpc_client-0.3.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

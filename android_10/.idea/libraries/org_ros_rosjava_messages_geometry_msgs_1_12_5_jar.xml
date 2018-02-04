@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.ros.rosjava_messages:geometry_msgs:1.12.5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/geometry_msgs/1.12.5/cced5d3f1b4f55a4248884befce7e898856705d/geometry_msgs-1.12.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

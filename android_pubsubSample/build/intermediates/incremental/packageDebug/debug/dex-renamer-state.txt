@@ -1,0 +1,4 @@
+#Sun Feb 04 12:00:23 KST 2018
+base.0=/home/hyunokpc2/app/git/test/android_pubsubSample/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

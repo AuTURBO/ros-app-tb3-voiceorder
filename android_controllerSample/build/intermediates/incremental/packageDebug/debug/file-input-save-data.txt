@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Feb 04 04:49:36 KST 2018
+0.baseType=DIRECTORY
+0.base=/home/hyunokpc2/app/git/test/android_controllerSample/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

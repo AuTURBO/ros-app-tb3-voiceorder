@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_a8696d1ee181b8dc721dea09f580882ad2cda356.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.codec/1.3.0/f8690570eb0913d750262bb4223eed30b0d619ed/com.springsource.org.apache.commons.codec-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8690570eb0913d750262bb4223eed30b0d619ed">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.codec-1.3.0_1861df948828fc44e4e3cb8c212a2e14a0a973c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/gradle_plugins/0.3.0/9915d897f3b5049e99b268068978a1bca0ae7b5d/gradle_plugins-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9915d897f3b5049e99b268068978a1bca0ae7b5d">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/gradle_plugins-0.3.0_2aefd8bda722d390311c8318f4d0b7d54995cf41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosgraph_msgs/1.11.2/adb731dd5181976b23c217872f61c724a3af70fe/rosgraph_msgs-1.11.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="adb731dd5181976b23c217872f61c724a3af70fe">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/rosgraph_msgs-1.11.2_033c0060f0a0380a7cb76ad9d081ec0f1df4918d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.net/2.0.0/3e78766072ff5a5cf3f5431d973c430c94ec612/com.springsource.org.apache.commons.net-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03e78766072ff5a5cf3f5431d973c430c94ec612">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.net-2.0.0_3e49a99144af71c78dac076c40ce742c0844a010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.httpclient/3.1.0/c493a925a091ac3d8f449d9265fe12482dabb2a7/com.springsource.org.apache.commons.httpclient-3.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c493a925a091ac3d8f449d9265fe12482dabb2a7">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.httpclient-3.1.0_4f182972470695ff6ff534123e1196b045fab716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_22f1890dd73f663d1135ba6ea830f89cd7b5c4c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_client/0.3.5/71e810ad6cb0d81a75737accb2863e170f59c142/apache_xmlrpc_client-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="71e810ad6cb0d81a75737accb2863e170f59c142">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/apache_xmlrpc_client-0.3.5_20e1e7e0515d65fd7454eb394df9cd1e082d55ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.lang/2.4.0/686e3713650c8e3a5d98723b4d3e239586bf9822/com.springsource.org.apache.commons.lang-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686e3713650c8e3a5d98723b4d3e239586bf9822">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.lang-2.4.0_9fc8f5dd84fa7a892d316f2fd17db0682212d562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/std_msgs/0.5.10/25de4f33c8f8af231d99ec8fe362089a5fb072e8/std_msgs-0.5.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25de4f33c8f8af231d99ec8fe362089a5fb072e8">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/std_msgs-0.5.10_a77f139058d775091883181c2ca61724297c442b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/diagnostic_msgs/1.12.5/74d9364249591cc38b135e8a17b3200696db4202/diagnostic_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74d9364249591cc38b135e8a17b3200696db4202">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/diagnostic_msgs-1.12.5_ad8bb8c8bace13e264b42be430617c6aa1b2beea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_benchmarks/0.3.5/8645ff9deb24efe7abe6cba95cf3f3d2d96108ff/rosjava_benchmarks-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8645ff9deb24efe7abe6cba95cf3f3d2d96108ff">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/rosjava_benchmarks-0.3.5_c14647e61ddd9c79e1e5a72d8a8658b33501872a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/sensor_msgs/1.12.5/cbf0470b3769130fbe997ca4cc479177d14ddbdb/sensor_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbf0470b3769130fbe997ca4cc479177d14ddbdb">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/sensor_msgs-1.12.5_9d294ab962d76e6293c5cc7d9c1f6227717f5e9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/studio/android-studio/gradle/m2repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/jsr305-1.3.9_eceeb18b148b5b547ba981499dce5eec7244830c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.io/1.4.0/51097cd000ec88214ff181c9f059947de1cf4a35/com.springsource.org.apache.commons.io-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51097cd000ec88214ff181c9f059947de1cf4a35">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.io-1.4.0_e9efa1b8ad1ef52fbac9214af38226b61890b7ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/tf2_msgs/0.5.15/2ceb822da34cb732c7e76a182a474d0a083e0719/tf2_msgs-0.5.15.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ceb822da34cb732c7e76a182a474d0a083e0719">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/tf2_msgs-0.5.15_bdbf9b4e589ef2e82058e9648d97b5edc2909f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/nav_msgs/1.12.5/1af629301e0c1e2c5ae5dc5086127d0943f752fb/nav_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1af629301e0c1e2c5ae5dc5086127d0943f752fb">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/nav_msgs-1.12.5_879844075f8ac1496cf88625f2993efdf3e96587.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_7959186e0580a5921d7c15c0244468b5b3339b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/rosjava_test_msgs/0.3.0/d81caa572200690bdeadf5c257f0d09d77623c1a/rosjava_test_msgs-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81caa572200690bdeadf5c257f0d09d77623c1a">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/rosjava_test_msgs-0.3.0_a08ac92abf3d9d7970e45e19a9ec74c0f3dba785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.6/4572d589699f09d866a226a14b7f4323c6d8f040/commons-pool-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4572d589699f09d866a226a14b7f4323c6d8f040">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/commons-pool-1.6_6a4766883c2cd5c2ccb3a315d49a1f0e904b062a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_a2eaccb102a6d16b2999126cf6a0af2841a97c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava_geometry/0.3.5/b9f85e52141b00356efbb0eebe3f2fd9988a8be4/rosjava_geometry-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9f85e52141b00356efbb0eebe3f2fd9988a8be4">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/rosjava_geometry-0.3.5_5e833c6de38725d4f606e882f1fb47210256ee5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_f6f4193d412592a7500d3bd387acc23ea26bcfd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_07a16c4a7a4c6054e5524c853d927a4f5dc25cc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/org.ros.android_core/android_10/0.3.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fb6209cfff35f2d5980392a6e474f04dd44f4518">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/org.ros.android_core-android_10-0.3.3_86785dc3060908a1064a646f27265dad3fa3ea49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/dnsjava/dnsjava/2.1.1/5708df81cf6dbff545695f0be6380b7bbc85accc/dnsjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5708df81cf6dbff545695f0be6380b7bbc85accc">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/dnsjava-2.1.1_7e8213c9b844a3b144efaab9de352c4aac0228ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_f5f53fbabe17cc9f11389febde13ea58e5ec9bf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_20c173daec8ae3cafe78a4382fd45b1cddfd5b47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/actionlib_msgs/1.12.5/aa70fb74bb8812b9f49cf95d4b44570ae8b951ee/actionlib_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa70fb74bb8812b9f49cf95d4b44570ae8b951ee">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/actionlib_msgs-1.12.5_1b6acf785d4e807bf2916f54fedfe8ac8b4e79f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_server/0.3.5/131944a67ea232fe8c64b9ef3223be2e0070ad2b/apache_xmlrpc_server-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="131944a67ea232fe8c64b9ef3223be2e0070ad2b">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/apache_xmlrpc_server-0.3.5_a1aa8442c0fc9be5c3e70987545db22a21d0eac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/io.netty/netty/3.5.2.Final/e6fb74a0699abe108969b2ec1f269391169a0426/netty-3.5.2.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6fb74a0699abe108969b2ec1f269391169a0426">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/netty-3.5.2.Final_994cca3b1ad6c73417111931118390bfeb43acca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/12.0/5bc66dd95b79db1e437eb08adba124a3e4088dc0/guava-12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5bc66dd95b79db1e437eb08adba124a3e4088dc0">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/guava-12.0_d81dfee7c7f37672efb64d2786ed0667a53adc28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_bootstrap/message_generation/0.3.0/5141e448f0ea6a2d6f539219d4fc9b296ff07ca4/message_generation-0.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5141e448f0ea6a2d6f539219d4fc9b296ff07ca4">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/message_generation-0.3.0_205374a1db053155f51b63872ddc9ce96787dde9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.apache.commons/com.springsource.org.apache.commons.logging/1.1.1/7657caf2c78e1d79c74d36f2ae128a115f7cc180/com.springsource.org.apache.commons.logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7657caf2c78e1d79c74d36f2ae128a115f7cc180">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.springsource.org.apache.commons.logging-1.1.1_663d84ef2735cd93a1d959ae698c657df4c05f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.apache.ws.commons/ws-commons-util/1.0.1/126e80ff798fece634bc94e61f8be8a8da00be60/ws-commons-util-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="126e80ff798fece634bc94e61f8be8a8da00be60">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/ws-commons-util-1.0.1_4b4fb7bef1f8d44be933e03ef37b2c243ed54e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/rosjava/0.3.5/7320e6ff76abf066da6850f44f3dcb05f890e043/rosjava-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7320e6ff76abf066da6850f44f3dcb05f890e043">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/rosjava-0.3.5_7d40f7aed82edf00f31a169e311693f08c9999b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_core/apache_xmlrpc_common/0.3.5/f5de19f4f6ee9a84f08e27255f1baaa69401a979/apache_xmlrpc_common-0.3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5de19f4f6ee9a84f08e27255f1baaa69401a979">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/apache_xmlrpc_common-0.3.5_806b0294ae1f359da7efd8f1f6ea2ee41c4f3475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_292722703f889315316753e222f893793eeb182e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/geometry_msgs/1.12.5/cced5d3f1b4f55a4248884befce7e898856705d/geometry_msgs-1.12.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cced5d3f1b4f55a4248884befce7e898856705d">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/geometry_msgs-1.12.5_2434b2553f27dc3ddb153950766bcd3a6234fb00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/hyunokpc2/app/android_core-kinetic/android_benchmarks/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_d0dd8ed5c9928fff418e6459c58b9dbe671ebfdf.jar" />
+    </item>
+
+</items>

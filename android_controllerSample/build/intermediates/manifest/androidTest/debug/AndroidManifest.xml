@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.ros.android.controllerSample.test">
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="26" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="org.ros.android.controllerSample"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for org.ros.android.controllerSample"/>
+</manifest>
