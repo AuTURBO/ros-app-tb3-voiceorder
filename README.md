@@ -1,6 +1,6 @@
 # ros-app-tb3-voiceorder
-*To make TurtleBot3 Burger follow what some says
-*This code refers to the site below
+* To make TurtleBot3 Burger follow what some says
+* This code refers to the site below and use rosjava class 
 ```
 https://github.com/rosjava/android_core
 ```
