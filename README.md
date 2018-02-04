@@ -2,9 +2,9 @@
 * To make TurtleBot3 Burger follow what some says
 * This is Android application source code 
 * This code refers to the below site and use rosjava class 
-```
+
 Link:[RosJava]: https://github.com/rosjava/android_core
-```
+
 # Requirements
 
 * Android Studio 3.0.1
