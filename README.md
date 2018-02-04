@@ -1,22 +1,17 @@
 # ros-app-tb3-voiceorder
 To make TurtleBot3 Burger follow what some says
+This code refers to the site below
+https://github.com/rosjava/android_core
 
 ## Requirements
 
-* Python3.5
-* Ubuntu 16.04
-* Opencv3.2
-* [ROS](http://wiki.ros.org/kinetic/Installation/Ubuntu)
-* [Tensorflow](https://www.tensorflow.org/install/)
-* [find_object_2d (ROS package)](http://wiki.ros.org/find_object_2d)
-* [usb_cam (ROS package)](http://wiki.ros.org/usb_cam)
-* [turtlebot3_bringup (ROS package)](https://github.com/ROBOTIS-GIT/turtlebot3)
+* Android Studio 3.0.1
 
+## Support OS
 
-## Hardware
- * [Fish eye camera](https://ko.aliexpress.com/item/2mp-hd-1-3-CMOS-AR0330-H-264-mini-cmos-fpv-180-degree-wide-angle-fisheye/32793788459.html?trace=msiteDetail2pcDetail)
- * [Intel Joule](https://software.intel.com/en-us/iot/hardware/joule/dev-kit)
- * [Turtlebot3 burger](http://en.robotis.com/index/product.php?cate_code=111510)
+* Android Phone SDK version 15 IceCreamSandwitch  ~ 26 Oreo
+* ROS Kinentic
+
 ## Usage
 
 1. Permission
@@ -24,15 +19,10 @@ You should do
 ```
 chmod +x "file name"
 ```
-for all the files inside of src forder.
-
-2. Path of machine learning data 
-In the "signal_sign_detection.py"
+2. import projet by studio 
 ```
 self.saver.restore(self.sess, "/home/kihoon/catkin_ws/src/self_driving_turtlebot3/src/signal_sign_detection/model/model.ckpt")
 ```
-Change this line for your workspace environment
-
 3. catkin make
 ```
 cd ~/catkin_ws && catkin_make
