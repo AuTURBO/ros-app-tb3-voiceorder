@@ -44,8 +44,8 @@ The path is as below
 ```
 control by jostick
 ```
-![ex_screenshot](./picture/Screenshot_2018-02-04-11-54-11.png)
+![ex_screenshot](./picture/Screenshot_2018-02-04-11-54-11.png){: width="50%" height="50%"}
 ```
 control by voice
 ```
-![ex_screenshot](./picture/Screenshot_2018-02-04-11-54-22.png)
+![ex_screenshot](./picture/Screenshot_2018-02-04-11-54-22.png){: width="50%" height="50%"}
