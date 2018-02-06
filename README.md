@@ -17,14 +17,14 @@
 I run Android Studio with sudo permission.Just be careful.
  * import projet by android studio 
 ```
-If you don't want to build project, you just download and install Apk file at below link. 
-The path is as below
+If you don't want to build project, you just download and install Apk from google Play Store.
+Search key work is 'ROS AuTURBO'. 
 ```
- * android_controllerSample Project<br />
-    https://github.com/AuTURBO/ros-app-tb3-voiceorder/blob/master/android_controllerSample/build/outputs/apk/debug/android_controllerSample-debug.apk
+ * android_controllerSample apk<br />
+    Link: [android_controllerSample]: https://play.google.com/store/apps/details?id=org.ros.android.controllerSample
 
- * android_pubsubSample Project<br />
-  https://github.com/AuTURBO/ros-app-tb3-voiceorder/blob/master/android_pubsubSample/build/outputs/apk/debug/android_pubsubSample-debug.apk
+ * android_pubsubSample apk<br />
+   Link: [android_pubsubSample]: https://play.google.com/store/apps/details?id=org.ros.android.pubsubSample
 
 
 # Project Description
