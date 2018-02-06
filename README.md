@@ -21,10 +21,10 @@ If you don't want to build project, you just download and install Apk from googl
 Search key work is 'ROS AuTURBO'. 
 ```
  * android_controllerSample apk<br />
-    Link: [android_controllerSample]: https://play.google.com/store/apps/details?id=org.ros.android.controllerSample
+    Link: [android_controllerSample](https://play.google.com/store/apps/details?id=org.ros.android.controllerSample)
 
  * android_pubsubSample apk<br />
-   Link: [android_pubsubSample]: https://play.google.com/store/apps/details?id=org.ros.android.pubsubSample
+   Link: [android_pubsubSample](https://play.google.com/store/apps/details?id=org.ros.android.pubsubSample)
 
 
 # Project Description
