@@ -9,7 +9,7 @@
 
 * Android Studio 3.0.1
 * Android Phone SDK version 15 (IceCreamSandwitch)  ~ 26 (Oreo)
-* ROS Kinentic
+* ROS Kinetic
 
 # Usage
 
@@ -18,7 +18,7 @@ I run Android Studio with sudo permission.Just be careful.
  * import projet by android studio 
 ```
 If you don't want to build project, you just download and install Apk from google Play Store.
-Search key work is 'ROS AuTURBO'. 
+Search key word 'ROS AuTURBO'. 
 ```
  * android_controllerSample apk<br />
     Link: [android_controllerSample](https://play.google.com/store/apps/details?id=org.ros.android.controllerSample)
@@ -41,7 +41,7 @@ This code has been copied from ROSJAVA and modified below.
 This module is Simple Example android application code for ROS Publish and ROS Subscribe. 
 This module use class of android_10.
 If you write some sentance and push button, This application publish the sentance, 
-and this application subscribe the sentence. And this application display subscribed sentacne 
+and this application subscribe the sentence. And this application display subscribed sentence 
 
 publish topic list
 1. Topic name is "string_test". Datatype is std_msgs.String.
@@ -68,7 +68,7 @@ subscribe topic list
 2. Topic name is "/camera1/image_raw/compressed". Datatype is sensor_msgs.CompressedImage.
 ```
 
- When control mode is jostick, Android_controllerSample Project UI.
+ When control mode is joystick, Android_controllerSample Project UI.
 
 <img src="/picture/Screenshot_2018-02-04-11-54-11.png" width="70%" height="70%">
 
