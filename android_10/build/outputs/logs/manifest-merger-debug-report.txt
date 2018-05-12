@@ -1,87 +1,87 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:4:11-47
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:4:11-47
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:3:11-57
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:3:11-57
 	android:versionCode
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:1-31:12
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:2:11-69
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:8:5-80
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:8:22-78
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:8:22-78
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:9:5-75
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:9:22-73
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:9:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:10:5-75
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:10:5-75
 	android:name
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:10:22-73
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:10:22-73
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:11:5-67
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:11:22-65
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:11:22-65
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:12:5-77
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:12:5-77
 	android:name
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:12:22-75
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:12:22-75
 application
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:14:5-29:19
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:14:5-29:19
 	android:label
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:16:9-41
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:16:9-41
 	android:icon
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:15:9-36
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:15:9-36
 activity#org.ros.android.MasterChooser
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:17:9-21:44
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:17:9-21:44
 	android:label
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:20:13-45
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:20:13-45
 	android:launchMode
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:21:13-42
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:21:13-42
 	android:theme
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:19:13-51
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:19:13-51
 	android:name
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:18:13-57
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:18:13-57
 service#org.ros.android.NodeMainExecutorService
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:23:9-28:19
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:23:9-28:19
 	tools:ignore
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:24:18-48
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:24:18-48
 	android:name
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:23:18-72
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:23:18-72
 intent-filter#org.ros.android.NodeMainExecutorService
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:25:13-27:29
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:25:13-27:29
 action#org.ros.android.NodeMainExecutorService
-ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:26:17-81
+ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:26:17-81
 	android:name
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml:26:25-79
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml:26:25-79
 uses-sdk
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-		ADDED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
-		INJECTED from /home/hyunokpc2/app/git/test/android_10/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+		ADDED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml
+		INJECTED from /home/hyunoklee/app/ros-app-tb3-voiceorder/android_10/AndroidManifest.xml

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/hyunokpc2/app/git/test/android_controllerSample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/home/hyunoklee/app/ros-app-tb3-voiceorder/android_controllerSample/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/31da2798b9e5736cf248f2efadad8c25/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/home/hyunoklee/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/1422bf390ffc11fd1dcf912aaf11c292/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

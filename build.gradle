@@ -23,6 +23,9 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.1'
     }
+    repositories {
+        google()
+    }
 }
 /*
 apply plugin: "catkin"
@@ -87,3 +90,7 @@ configure(subprojects.findAll { it.name.startsWith("android_") }) {
 }
 
 defaultTasks 'assembleRelease', 'uploadArchives'
+
+repositories {
+    google()
+}

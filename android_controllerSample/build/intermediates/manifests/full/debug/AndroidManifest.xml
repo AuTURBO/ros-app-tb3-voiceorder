@@ -20,8 +20,7 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@drawable/icon"
-        android:label="@string/app_name"
-        android:testOnly="true" >
+        android:label="@string/app_name" >
         <activity
             android:name="org.ros.android.controllerSample.MainActivity"
             android:label="@string/app_name"

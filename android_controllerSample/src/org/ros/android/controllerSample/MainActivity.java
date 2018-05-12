@@ -252,12 +252,12 @@ public class MainActivity extends RosActivity {
 
   public void setTwist( double twistLinear[] , double twistArgular[] ){
     if( !voiceConrol ) {
-      pubTwist.message.getLinear().setX(twistLinear[0]);
-      pubTwist.message.getLinear().setY(twistLinear[1]);
-      pubTwist.message.getLinear().setZ(twistLinear[2]);
-      pubTwist.message.getAngular().setX(twistArgular[0]);
-      pubTwist.message.getAngular().setY(twistArgular[1]);
-      pubTwist.message.getAngular().setZ(twistArgular[2]);
+      pubTwist.message.getLinear().setX(twistLinear[0]/12);
+      pubTwist.message.getLinear().setY(twistLinear[1]/12);
+      pubTwist.message.getLinear().setZ(twistLinear[2]/12);
+      pubTwist.message.getAngular().setX(twistArgular[0]/3);
+      pubTwist.message.getAngular().setY(twistArgular[1]/3);
+      pubTwist.message.getAngular().setZ(twistArgular[2]/3);
       pubTwist.publish();
     }
   }
@@ -340,17 +340,17 @@ public class MainActivity extends RosActivity {
     double twistArgular[] = { 0, 0, 0 } ;
 
     if(controlDirection.equals(forward)){
-      linearVelocityX = 0.5 ;
+      linearVelocityX = 0.05 ;
       angularVelocityZ = 0 ;
     }else if(controlDirection.equals(backward)){
-      linearVelocityX = -0.5 ;
+      linearVelocityX = -0.05 ;
       angularVelocityZ = 0 ;
     }else if(controlDirection.equals(left)){
       linearVelocityX = 0 ;
-      angularVelocityZ = 0.5 ;
+      angularVelocityZ = 0.3 ;
     }else if(controlDirection.equals(right)){
       linearVelocityX = 0 ;
-      angularVelocityZ = -0.5 ;
+      angularVelocityZ = -0.3 ;
     }else if(controlDirection.equals(stop)){
       linearVelocityX = 0 ;
       angularVelocityZ = 0 ;
